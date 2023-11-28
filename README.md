@@ -65,12 +65,6 @@ O NotesOnly é uma aplicação web na qual os usuários podem se cadastrar e cri
 </p>
 
 
-<!-- ### Mobile
-
-<p align="center">
-  <img alt="Layout Mobile Demonstration" title="#Mobile" src=".github/images/mobile-demonstration.png" width="100%">
-</p> -->
-
 ---
 
 ## 🔗 Deploy
@@ -87,8 +81,6 @@ Este projeto contem parte Front-end(React) e Back-end(Node), no entanto, neste r
 Este projeto é divido em duas partes:
 1. Backend (pasta server) 
 2. Frontend (pasta web)
-
-💡Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar. -->
 
 ### Pré-requisitos
 
